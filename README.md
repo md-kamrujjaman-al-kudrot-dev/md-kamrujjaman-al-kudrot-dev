@@ -26,29 +26,9 @@ TypeScript
 Next.js
 Firebase Authentication
 RESTful API & CRUD Operations
+
 💡 What I Love
 I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience.
 
-🛠️ Tech Stack
-JavaScript
-TypeScript
-React
-Next.js
-Node.js
-TailwindCSS
-Firebase
-MongoDB
-Git
-C++
 
-📫 Contact With Me
-Gmail
-LinkedIn
-Facebook
-WhatsApp
 
-🔧 Projects
-Here are some of the projects I’ve worked on:
-
-Project 1: Link to GitHub Project
-Project 2: Link to GitHub Project
