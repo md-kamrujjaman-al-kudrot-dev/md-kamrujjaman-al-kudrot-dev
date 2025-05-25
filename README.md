@@ -48,5 +48,6 @@ RESTful API & CRUD Operations,
 
 
 💡 What I Love
-I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience...
+I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience....
+
 
