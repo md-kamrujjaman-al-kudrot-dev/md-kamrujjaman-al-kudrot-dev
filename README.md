@@ -1,8 +1,8 @@
-🎓 I'm a Front-End Developer from Bangladesh, passionate about creating responsive and user-friendly websites using modern technologies.
+🎓 #I'm a Front-End Developer from Bangladesh, passionate about creating responsive and user-friendly websites using modern technologies.
 
-🛠️ My Skills:
+🛠️ ##My Skills:
 
-🌐 Front-End Development:
+##🌐 Front-End Development:
 
 HTML,
 
@@ -12,21 +12,21 @@ Tailwind CSS,
 
 Responsive Web Design
 
-🧩 Tools & Workflow:
+##🧩 Tools & Workflow:
 Git & GitHub
 
 
 Figma (UI Design to Code).
 
 
-Chrome DevTools
+##Chrome DevTools
 VS Code
 
-📚 Currently Learning: 
+##📚 Currently Learning: 
 
 JavaScript
 
-🎯 Future Goals:
+##🎯 Future Goals:
 
 
 React.js,
@@ -47,8 +47,9 @@ RESTful API & CRUD Operations,
 
 
 
-💡 What I Love
-I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience.......
+##💡 What I Love
+I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience...........
+
 
 
 
