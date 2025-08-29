@@ -1,55 +1,52 @@
-🎓 #I'm a Front-End Developer from Bangladesh, passionate about creating responsive and user-friendly websites using modern technologies.
-
-🛠️ ##My Skills:
-
-##🌐 Front-End Development:
-
-HTML,
-
-CSS,
-
-Tailwind CSS,
-
-Responsive Web Design
-
-##🧩 Tools & Workflow:
-Git & GitHub
+<!-- PROFILE README: start -->
+<h1 align="center">Hi, I'm MD Kamrujjaman 👋</h1>
 
 
-Figma (UI Design to Code).
+<p align="center">
+Front‑End Developer · JavaScript · React · Tailwind CSS · Git & GitHub · Figma
+</p>
 
 
-##Chrome DevTools
-VS Code
-
-##📚 Currently Learning: 
-
-JavaScript
-
-##🎯 Future Goals:
+---
 
 
-React.js,
+### 👨‍💻 About Me
+- 💡 I build clean, accessible UIs and love turning designs into fast, responsive web apps.
+- 🚀 Currently learning **advanced React**, **Async JS**, and **DOM mastery**.
+- 🧩 I improve by cloning real‑world websites and building mini‑projects.
+- 🛠️ Recently built: **OTP Generator**, **Typing Racer Game**, **Digital Clock**, .
 
-API Integration,
 
-Node.js & Express.js,
+### 🧰 Tech Stack
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks/Libraries:** React, Tailwind CSS
+- **Tools:** Git & GitHub, VS Code, Figma, Netlify/Vercel
 
-MongoDB & Mongoose,
 
-TypeScript,
+### 🔥 Featured Projects
+- **OTP Generator** — Countdown timer & validation.
+- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/otp-generator-tailwind-js
+- Live: https://[otp-generator-tailwind-js](https://otp-generator-tailwind-js.netlify.app/)
 
-Next.js,
+- **Weather Clock** 
+- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/weather-clock-html-tailwind-js
+- Live: https://[weather-clock-html-tailwind-js](https://weather-clock-html-tailwind-js.netlify.app/)
 
-Firebase Authentication,
+- **Digital Clock** — 12/24h format with AM/PM and leading‑zero formatting.
+- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/digital-clock
+- Live: https://digital-clock-html-tailwind-js.netlify.app/
 
-RESTful API & CRUD Operations,
+
+### 📫 Contact
+- Email: kudrot592@gmail.com
+- LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363//
 
 
 
-##💡 What I Love
-I enjoy turning designs into fully functional, fast, and scalable websites. I'm focused on building real-world projects that solve problems and improve user experience...........
+---
 
 
 
 
+
+<!-- PROFILE README: end -->
