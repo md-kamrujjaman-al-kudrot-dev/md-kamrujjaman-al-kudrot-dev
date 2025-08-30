@@ -36,6 +36,10 @@ Front‑End Developer · JavaScript · React · Tailwind CSS · Git & GitHub · 
 - Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/digital-clock
 - Live: https://digital-clock-html-tailwind-js.netlify.app/
 
+- **Blinkit Clone** 
+- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/blinkit-clone
+- Live: https://blinkit-created-by-kudrot.netlify.app/
+
 
 ### 📫 Contact
 - Email: kudrot592@gmail.com
