@@ -43,7 +43,7 @@ Front‑End Developer · JavaScript · React · Tailwind CSS · Git & GitHub · 
 
 ### 📫 Contact
 - Email: kudrot592@gmail.com
-- LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363//
+- LinkedIn: https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363/
 
 
 
