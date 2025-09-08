@@ -24,6 +24,12 @@ Front‑End Developer · JavaScript · React · Tailwind CSS · Git & GitHub · 
 
 
 ### 🔥 Featured Projects
+
+- **Smart-Multi-Card-Counter** — Countdown timer & validation.
+- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/Counter-App-js
+- Live: https://[Smart-Multi-Card-Counter](https://smart-multi-card-counter-kk.netlify.app/)
+
+
 - **OTP Generator** — Countdown timer & validation.
 - Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/otp-generator-tailwind-js
 - Live: https://[otp-generator-tailwind-js](https://otp-generator-tailwind-js.netlify.app/)
