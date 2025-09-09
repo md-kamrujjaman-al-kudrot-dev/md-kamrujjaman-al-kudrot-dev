@@ -1,70 +1,86 @@
-<!-- PROFILE README: start -->
-<h1 align="center">Hi, I'm MD Kamrujjaman 👋</h1>
+# Hi, I'm MD Kamrujjaman 👋
 
-
-<p align="center">
-Front‑End Developer · JavaScript · React · Tailwind CSS · Git & GitHub · Figma
-</p>
-
+**Front‑End Developer** | JavaScript | React | Tailwind CSS | Git & GitHub | Figma
 
 ---
 
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-- 💡 I build clean, accessible UIs and love turning designs into fast, responsive web apps.
-- 🚀 Currently learning **advanced React**, **Async JS**, and **DOM mastery**.
-- 🧩 I improve by cloning real‑world websites and building mini‑projects.
-- 🛠️ Recently built: **OTP Generator**, **Typing Racer Game**, **Digital Clock**, .
+I'm a passionate front-end developer who loves creating clean, accessible user interfaces and transforming designs into fast, responsive web applications.
 
+- 💡 **Focus:** Building modern, user-friendly web experiences
+- 🚀 **Currently Learning:** Advanced React patterns, Async JavaScript, and DOM manipulation
+- 🧩 **Growth Method:** Cloning real-world websites and building practical mini-projects
+- 🛠️ **Recent Projects:** OTP Generator, Typing Racer Game, Digital Clock
 
-### 🧰 Tech Stack
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries:** React, Tailwind CSS
-- **Tools:** Git & GitHub, VS Code, Figma, Netlify/Vercel
+## 🧰 Tech Stack
 
+**Languages**
 
-### 🔥 Featured Projects
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-- **Smart-Multi-Card-Counter** — Countdown timer & validation.
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/Counter-App-js
-- Live: https://[Smart-Multi-Card-Counter](https://smart-multi-card-counter-kk.netlify.app/)
+**Frameworks & Libraries**
 
+- React
+- Tailwind CSS
 
-- **OTP Generator** — Countdown timer & validation.
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/otp-generator-tailwind-js
-- Live: https://[otp-generator-tailwind-js](https://otp-generator-tailwind-js.netlify.app/)
+**Tools & Platforms**
 
-- **Weather Clock** 
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/weather-clock-html-tailwind-js
-- Live: https://[weather-clock-html-tailwind-js](https://weather-clock-html-tailwind-js.netlify.app/)
+- Git & GitHub
+- VS Code
+- Figma
+- Netlify/Vercel
 
-- **Digital Clock** — 12/24h format with AM/PM and leading‑zero formatting.
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/digital-clock
-- Live: https://digital-clock-html-tailwind-js.netlify.app/
+## 🔥 Featured Projects
 
-- **Blinkit Clone** 
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/blinkit-clone
-- Live: https://blinkit-created-by-kudrot.netlify.app/
+### Smart-Multi-Card-Counter 
 
+Countdown timer & validation.
+- **Repository:** [Smart-Multi-Card-Counter](https://github.com/md-kamrujjaman-al-kudrot-dev/Counter-App-js)
+- **Live Demo:** https://[Smart-Multi-Card-Counter](https://smart-multi-card-counter-kk.netlify.app/)
 
-- **Fitclub Clone** 
-- Repo: https://github.com/md-kamrujjaman-al-kudrot-dev/Fitclub-This-is-my-first-website-where-I-use-tailwindcss-
-- Live: https://fitclub-responsive-tailwind-kudrot.netlify.app/
+### OTP Generator
 
+A secure OTP system with countdown timer and validation features.
 
+- **Repository:** [otp-generator-tailwind-js](https://github.com/md-kamrujjaman-al-kudrot-dev/otp-generator-tailwind-js)
+- **Live Demo:** [View Project](https://otp-generator-tailwind-js.netlify.app/)
 
+### Weather Clock
 
+Real-time weather information combined with a stylish clock interface.
 
-### 📫 Contact
-- Email: kudrot592@gmail.com
-- LinkedIn: https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363/
+- **Repository:** [weather-clock-html-tailwind-js](https://github.com/md-kamrujjaman-al-kudrot-dev/weather-clock-html-tailwind-js)
+- **Live Demo:** [View Project](https://weather-clock-html-tailwind-js.netlify.app/)
 
+### Digital Clock
 
+Customizable clock with 12/24h format, AM/PM display, and proper zero-padding.
+
+- **Repository:** [digital-clock](https://github.com/md-kamrujjaman-al-kudrot-dev/digital-clock)
+- **Live Demo:** [View Project](https://digital-clock-html-tailwind-js.netlify.app/)
+
+### Blinkit Clone
+
+Recreation of the popular grocery delivery app's user interface.
+
+- **Repository:** [blinkit-clone](https://github.com/md-kamrujjaman-al-kudrot-dev/blinkit-clone)
+- **Live Demo:** [View Project](https://blinkit-created-by-kudrot.netlify.app/)
+
+### Fitclub Clone
+
+Responsive fitness website clone built with Tailwind CSS.
+
+- **Repository:** [fitclub-clone](https://github.com/md-kamrujjaman-al-kudrot-dev/Fitclub-This-is-my-first-website-where-I-use-tailwindcss-)
+- **Live Demo:** [View Project](https://fitclub-responsive-tailwind-kudrot.netlify.app/)
+
+## 📫 Let's Connect
+
+- **Email:** [kudrot592@gmail.com](mailto:kudrot592@gmail.com)
+- **LinkedIn:** [MD Kamrujjaman Al Kudrot](https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363/)
 
 ---
 
-
-
-
-
-<!-- PROFILE README: end -->
+_Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate._ ✨
