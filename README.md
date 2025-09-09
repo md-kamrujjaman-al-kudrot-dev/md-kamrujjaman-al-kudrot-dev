@@ -35,6 +35,12 @@ I'm a passionate front-end developer who loves creating clean, accessible user i
 
 ## 🔥 Featured Projects
 
+### Smart-Multi-Card-Counter 
+
+Countdown timer & validation.
+- **Repository:** [Smart-Multi-Card-Counter](https://github.com/md-kamrujjaman-al-kudrot-dev/Counter-App-js)
+- **Live Demo:** https://[Smart-Multi-Card-Counter](https://smart-multi-card-counter-kk.netlify.app/)
+
 ### OTP Generator
 
 A secure OTP system with countdown timer and validation features.
