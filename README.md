@@ -76,6 +76,13 @@ Responsive fitness website clone built with Tailwind CSS.
 - **Repository:** [fitclub-clone](https://github.com/md-kamrujjaman-al-kudrot-dev/Fitclub-This-is-my-first-website-where-I-use-tailwindcss-)
 - **Live Demo:** [View Project](https://fitclub-responsive-tailwind-kudrot.netlify.app/)
 
+### Career Goal Website
+
+A clean, responsive landing page sharing my 2025 developer goals.
+
+- **Repository:** [Career Goal Website](https://github.com/md-kamrujjaman-al-kudrot-dev/career-goal-website-html-vanillaCSS?tab=readme-ov-file)
+- **Live Demo:** [View Project](https://md-kamrujjaman-al-kudrot-dev.github.io/career-goal-website-html-vanillaCSS/)
+
 ## 📫 Let's Connect
 
 - **Email:** [kudrot592@gmail.com](mailto:kudrot592@gmail.com)
